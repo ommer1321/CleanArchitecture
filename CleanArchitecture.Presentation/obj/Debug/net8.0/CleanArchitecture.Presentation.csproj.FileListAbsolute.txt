@@ -1,0 +1,12 @@
+D:\Visual Studio\source\repos\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Presentation.deps.json
+D:\Visual Studio\source\repos\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Presentation.dll
+D:\Visual Studio\source\repos\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Presentation.pdb
+D:\Visual Studio\source\repos\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.csproj.AssemblyReference.cache
+D:\Visual Studio\source\repos\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\source\repos\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.AssemblyInfoInputs.cache
+D:\Visual Studio\source\repos\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.AssemblyInfo.cs
+D:\Visual Studio\source\repos\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.csproj.CoreCompileInputs.cache
+D:\Visual Studio\source\repos\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.dll
+D:\Visual Studio\source\repos\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\refint\CleanArchitecture.Presentation.dll
+D:\Visual Studio\source\repos\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.pdb
+D:\Visual Studio\source\repos\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\ref\CleanArchitecture.Presentation.dll
